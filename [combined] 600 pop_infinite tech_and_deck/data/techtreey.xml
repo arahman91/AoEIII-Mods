@@ -11364,6 +11364,7 @@
     <cost resourcetype="Wood">100.0000</cost>
     <cost resourcetype="Gold">100.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\infantry_breastplate\infantry_breastplate.png</icon>
     <rollovertextid>23294</rollovertextid>
@@ -11388,6 +11389,7 @@
     <cost resourcetype="Wood">300.0000</cost>
     <cost resourcetype="Gold">300.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\paper_cartridge\paper_cartridge.png</icon>
     <rollovertextid>23297</rollovertextid>
@@ -11407,6 +11409,7 @@
     <displaynameid>23307</displaynameid>
     <cost resourcetype="Gold">300.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\cavalry_cuirass\cavalry_cuirass.png</icon>
     <rollovertextid>23306</rollovertextid>
@@ -11428,6 +11431,7 @@
     <cost resourcetype="Wood">400.0000</cost>
     <cost resourcetype="Gold">200.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\trunion\trunion.png</icon>
     <rollovertextid>23310</rollovertextid>
@@ -11448,6 +11452,7 @@
     <cost resourcetype="Food">400.0000</cost>
     <cost resourcetype="Wood">100.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\professional_gunners\professional_gunners.png</icon>
     <rollovertextid>23321</rollovertextid>
@@ -11468,6 +11473,7 @@
     <cost resourcetype="Wood">150.0000</cost>
     <cost resourcetype="Gold">150.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\military_drummers\military_drummers.png</icon>
     <rollovertextid>23327</rollovertextid>
@@ -11488,6 +11494,7 @@
     <cost resourcetype="Wood">200.0000</cost>
     <cost resourcetype="Gold">250.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\flint_lock\flint_lock.png</icon>
     <rollovertextid>23330</rollovertextid>
@@ -11528,6 +11535,7 @@
     <cost resourcetype="Wood">200.0000</cost>
     <cost resourcetype="Gold">200.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\rifling\rifling.png</icon>
     <rollovertextid>23340</rollovertextid>
@@ -11549,6 +11557,7 @@
     <cost resourcetype="Food">100.0000</cost>
     <cost resourcetype="Wood">100.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\gunners_quadrant\gunners_quadrant.png</icon>
     <rollovertextid>23348</rollovertextid>
@@ -11570,6 +11579,7 @@
     <cost resourcetype="Food">150.0000</cost>
     <cost resourcetype="Wood">150.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\heated_shot\heated_shot.png</icon>
     <rollovertextid>23353</rollovertextid>
@@ -11692,6 +11702,7 @@
     <displaynameid>23389</displaynameid>
     <cost resourcetype="Food">150.0000</cost>
     <researchpoints>10.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\town_watch\town_watch.png</icon>
     <rollovertextid>23388</rollovertextid>
@@ -11736,6 +11747,7 @@
     <cost resourcetype="Wood">75.0000</cost>
     <cost resourcetype="Gold">75.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\selective_breeding\selective_breeding.png</icon>
     <rollovertextid>23402</rollovertextid>
@@ -11911,6 +11923,7 @@
     <displaynameid>23420</displaynameid>
     <cost resourcetype="Food">75.0000</cost>
     <researchpoints>20.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\great_coat\great_coat_64x64.png</icon>
     <rollovertextid>23419</rollovertextid>
@@ -11932,6 +11945,7 @@
     <cost resourcetype="Wood">600.0000</cost>
     <cost resourcetype="Gold">600.0000</cost>
     <researchpoints>60.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\bastion\bastion.png</icon>
     <rollovertextid>23451</rollovertextid>
@@ -13263,6 +13277,7 @@
     <displaynameid>23882</displaynameid>
     <cost resourcetype="Food">75.0000</cost>
     <researchpoints>15.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\gas_lighting\gas_lighting.png</icon>
     <rollovertextid>23881</rollovertextid>
@@ -13283,6 +13298,7 @@
     <displaynameid>23885</displaynameid>
     <cost resourcetype="Gold">0.0000</cost>
     <researchpoints>15.0000</researchpoints>
+    <researchlimit>4</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\coffee_trade\coffee_trade.png</icon>
     <rollovertextid>126986</rollovertextid>
@@ -14553,6 +14569,7 @@
     <displaynameid>24784</displaynameid>
     <cost resourcetype="Food">75.0000</cost>
     <researchpoints>20.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\blunderbuss\blunderbuss_64x64.png</icon>
     <rollovertextid>24783</rollovertextid>
@@ -14774,6 +14791,7 @@
     <cost resourcetype="Wood">300.0000</cost>
     <cost resourcetype="Gold">300.0000</cost>
     <researchpoints>60.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\star_fort\star_fort.png</icon>
     <rollovertextid>25511</rollovertextid>
@@ -15000,6 +15018,7 @@
     <cost resourcetype="Wood">150.0000</cost>
     <cost resourcetype="Gold">150.0000</cost>
     <researchpoints>10.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\native_hunting_grounds\nat_hunting_grounds.png</icon>
     <rollovertextid>26241</rollovertextid>
@@ -15389,6 +15408,7 @@
     <cost resourcetype="Wood">500.0000</cost>
     <cost resourcetype="Gold">500.0000</cost>
     <researchpoints>60.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\revetment\revetment.png</icon>
     <rollovertextid>28264</rollovertextid>
@@ -15654,6 +15674,7 @@
     <cost resourcetype="Wood">250.0000</cost>
     <cost resourcetype="Gold">250.0000</cost>
     <researchpoints>10.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\native_horse_trading\nat_horse_trading.png</icon>
     <rollovertextid>29229</rollovertextid>
@@ -15692,6 +15713,7 @@
     <cost resourcetype="Wood">250.0000</cost>
     <cost resourcetype="Gold">250.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\pillage\pillage.png</icon>
     <rollovertextid>29449</rollovertextid>
@@ -16927,6 +16949,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_grenadier_artillery\imperial_grenadier_artillery.png</icon>
     <rollovertextid>125297</rollovertextid>
@@ -16957,6 +16980,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_cavalry\imperial_cavalry.png</icon>
     <rollovertextid>30932</rollovertextid>
@@ -16988,6 +17012,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_cavalry\imperial_cavalry.png</icon>
     <rollovertextid>30936</rollovertextid>
@@ -17019,6 +17044,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_cavalry\imperial_cavalry.png</icon>
     <rollovertextid>30944</rollovertextid>
@@ -17050,6 +17076,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_spear_infantry\imperial_spear_infantry.png</icon>
     <rollovertextid>30948</rollovertextid>
@@ -17081,6 +17108,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_infantry\imperial_infantry.png</icon>
     <rollovertextid>30958</rollovertextid>
@@ -17112,6 +17140,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_cavalry\imperial_cavalry.png</icon>
     <rollovertextid>30961</rollovertextid>
@@ -17142,6 +17171,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_cavalry\imperial_cavalry.png</icon>
     <rollovertextid>30965</rollovertextid>
@@ -17173,6 +17203,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_infantry\imperial_infantry.png</icon>
     <rollovertextid>30979</rollovertextid>
@@ -17238,6 +17269,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_grenadier_artillery\imperial_grenadier_artillery.png</icon>
     <rollovertextid>30988</rollovertextid>
@@ -17299,6 +17331,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_cavalry\imperial_cavalry.png</icon>
     <rollovertextid>30995</rollovertextid>
@@ -18475,6 +18508,7 @@
     <cost resourcetype="Wood">1000.0000</cost>
     <cost resourcetype="Gold">1000.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_large_scale_agriculture\imp_large_scale_agriculture.png</icon>
     <rollovertextid>31529</rollovertextid>
@@ -18903,6 +18937,7 @@
     <cost resourcetype="Food">1000.0000</cost>
     <cost resourcetype="Wood">1000.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_excessive_taxation\imp_excessive_taxation.png</icon>
     <rollovertextid>32363</rollovertextid>
@@ -42570,6 +42605,7 @@
     <cost resourcetype="Food">1000.0000</cost>
     <cost resourcetype="Gold">1000.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\deforestation\deforestation.png</icon>
     <rollovertextid>45661</rollovertextid>
@@ -46424,6 +46460,7 @@
     <cost resourcetype="Food">125.0000</cost>
     <cost resourcetype="Wood">125.0000</cost>
     <researchpoints>15.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\native\Unction.png</icon>
     <rollovertextid>46979</rollovertextid>
@@ -46481,6 +46518,7 @@
     <cost resourcetype="Wood">400.0000</cost>
     <cost resourcetype="Gold">300.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\native\Incendiary_Grenades.png</icon>
     <rollovertextid>46983</rollovertextid>
@@ -48363,6 +48401,7 @@
     <cost resourcetype="Wood">1500.0000</cost>
     <cost resourcetype="Gold">1500.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\imperial_artillery\imperial_artillery.png</icon>
     <rollovertextid>48893</rollovertextid>
@@ -57320,6 +57359,7 @@
     <cost resourcetype="Food">1000.0000</cost>
     <cost resourcetype="Gold">1000.0000</cost>
     <researchpoints>30.0000</researchpoints>
+    <researchlimit>-1</researchlimit>
     <status>UNOBTAINABLE</status>
     <icon>resources\images\icons\techs\asians\tech_tropical_timber_trade.png</icon>
     <rollovertextid>63526</rollovertextid>
